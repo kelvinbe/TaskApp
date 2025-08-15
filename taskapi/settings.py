@@ -136,6 +136,5 @@ CORS_ALLOW_ALL_ORIGINS = True
 
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
-    "https://taskapp-3.onrender.com"
+    "https://taskapp-3.onrender.com" #for production
 ]
