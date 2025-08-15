@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-&*f^$gx29mqg(1w6pc#!xm!puaw=+tsdp%zff@q**iw=6ft&u_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -137,5 +137,5 @@ CORS_ALLOW_ALL_ORIGINS = True
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://taskapp-3.onrender.com/"
+    "https://taskapp-3.onrender.com"
 ]
