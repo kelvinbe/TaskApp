@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone git@github.com:kelvinbe/TaskApp.git
 cd taskapi
 ```
 
@@ -96,7 +96,6 @@ yarn dev
 
 The React application will be available at: `http://localhost:5173` (or another port if 5173 is occupied)
 
-## 🌐 API Endpoints
 
 The Django backend provides the following API endpoints:
 
