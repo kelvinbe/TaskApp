@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 git clone git@github.com:kelvinbe/TaskApp.git
-cd taskapi
+cd TaskApp
 ```
 
 ### 2. Backend Setup (Django)
